@@ -1,0 +1,77 @@
+[
+  {
+    "obfs": {
+      "password": "KevinZakarian",
+      "type": "salamander"
+    },
+    "password": "aFs3HWCicZ",
+    "server": "103.83.86.119",
+    "server_port": 8443,
+    "tls": {
+      "enabled": true,
+      "insecure": true
+    },
+    "type": "hysteria2",
+    "tag": "NamelessVPN"
+  },
+  {
+    "obfs": {
+      "password": "KevinZakarian",
+      "type": "salamander"
+    },
+    "password": "@KevinZakarian",
+    "server": "129.212.182.3",
+    "server_port": 8443,
+    "tls": {
+      "enabled": true,
+      "insecure": true
+    },
+    "type": "hysteria2",
+    "tag": "BenVPN"
+  },
+  {
+    "obfs": {
+      "password": "KevinZakarian",
+      "type": "salamander"
+    },
+    "password": "@KevinZakarian",
+    "server": "54.36.225.180",
+    "server_port": 8443,
+    "tls": {
+      "enabled": true,
+      "insecure": true
+    },
+    "type": "hysteria2",
+    "tag": "IdinVPN"
+  },
+  {
+    "obfs": {
+      "password": "FarzanehDreams",
+      "type": "salamander"
+    },
+    "password": "5oITDYnNW7",
+    "server": "45.138.99.213",
+    "server_port": 8443,
+    "tls": {
+      "enabled": true,
+      "insecure": true
+    },
+    "type": "hysteria2",
+    "tag": "FarVPN"
+  },
+  {
+    "obfs": {
+      "password": "VPNy.net-@VPNynet",
+      "type": "salamander"
+    },
+    "password": "VPNy.net-@VPNynet",
+    "server": "kevin.vpny.online",
+    "server_port": 11001,
+    "tls": {
+      "enabled": true,
+      "insecure": true
+    },
+    "type": "hysteria2",
+    "tag": "VPNy.net-@VPNynet"
+  }
+]
