@@ -87,7 +87,6 @@
         "NamelessVPN",
         "BenVPN",
         "IdinVPN",
-        "FarVPN",
         "VPNy.net-@VPNynet"
       ],
       "tag": "proxy",
@@ -99,7 +98,6 @@
         "NamelessVPN",
         "BenVPN",
         "IdinVPN",
-        "FarVPN",
         "VPNy.net-@VPNynet"
       ],
       "tag": "auto",
@@ -150,21 +148,6 @@
       "server": "54.36.225.180",
       "server_port": 8443,
       "tag": "IdinVPN",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      },
-      "type": "hysteria2"
-    },
-    {
-      "obfs": {
-        "password": "FarzanehDreams",
-        "type": "salamander"
-      },
-      "password": "5oITDYnNW7",
-      "server": "45.138.99.213",
-      "server_port": 8443,
-      "tag": "FarVPN",
       "tls": {
         "enabled": true,
         "insecure": true
