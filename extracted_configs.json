@@ -84,7 +84,6 @@
       "outbounds": [
         "auto",
         "direct",
-        "NamelessVPN",
         "BenVPN"
       ],
       "tag": "proxy",
@@ -93,7 +92,6 @@
     {
       "interval": "10m",
       "outbounds": [
-        "NamelessVPN",
         "BenVPN"
       ],
       "tag": "auto",
@@ -104,21 +102,6 @@
     {
       "tag": "direct",
       "type": "direct"
-    },
-    {
-      "obfs": {
-        "password": "KevinZakarian",
-        "type": "salamander"
-      },
-      "password": "aFs3HWCicZ",
-      "server": "103.83.86.119",
-      "server_port": 8443,
-      "tag": "NamelessVPN",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      },
-      "type": "hysteria2"
     },
     {
       "obfs": {
