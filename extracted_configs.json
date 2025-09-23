@@ -84,7 +84,7 @@
       "outbounds": [
         "auto",
         "direct",
-        "BenVPN"
+        "@KevinZakarian"
       ],
       "tag": "proxy",
       "type": "selector"
@@ -92,7 +92,7 @@
     {
       "interval": "10m",
       "outbounds": [
-        "BenVPN"
+        "@KevinZakarian"
       ],
       "tag": "auto",
       "tolerance": 50,
@@ -109,9 +109,9 @@
         "type": "salamander"
       },
       "password": "@KevinZakarian",
-      "server": "129.212.182.3",
-      "server_port": 8443,
-      "tag": "BenVPN",
+      "server": "kevin.vpny.online",
+      "server_port": 11001,
+      "tag": "@KevinZakarian",
       "tls": {
         "enabled": true,
         "insecure": true
